@@ -14,5 +14,5 @@ Files
 1.	README.md: Contains overview.
 2.	Thedepartments.sql: Contains SQL statements from dbdiagram.io.
 3.	Thedepartment_createtables.py: Python script to interact with the database, insert sample data, and perform queries.
-4.	README.md: This file, providing an overview of the project.
+4.	thedepartment.db: This file the database.
 5.	thedepartment.png: Image file providing an overview of the project (Entity-Relationship Diagram).
