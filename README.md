@@ -1,6 +1,7 @@
 The Department
 
 
+
 Overview
 •	A department employs many employees, but each employee is used by only one department.
 •	Some employees, known as “rovers,” are not assigned to any department.
